@@ -1,6 +1,6 @@
 ---
 ### **Always Fresh**  
-A mod for ULTRAKILL that enhances gameplay by removing penalties from the style and freshness systems. It ensures a smoother and more fun experience for players who want to focus on stylish combat.
+A mod for ULTRAKILL that enhances gameplay by removing penalties from the style and freshness systems.
 
 ---
 
