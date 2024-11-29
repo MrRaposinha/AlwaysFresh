@@ -1,3 +1,9 @@
+Aqui está uma descrição simples e objetiva para o repositório do GitHub do seu mod **Always Fresh**:
+
+---
+
+### **Descrição no GitHub**
+
 **Always Fresh**  
 A mod for ULTRAKILL that enhances gameplay by removing penalties from the style and freshness systems. It ensures a smoother and more fun experience for players who want to focus on stylish combat.
 
@@ -11,7 +17,7 @@ A mod for ULTRAKILL that enhances gameplay by removing penalties from the style 
 ---
 
 ### **Installation**
-1. Download the `AlwaysFresh.dll`.
+1. Download the `AlwaysFresh.dll` from the [Releases](https://github.com/MrRaposinha/AlwaysFresh/releases) section.
 2. Place the file in your `BepInEx/plugins` folder.
 3. Launch ULTRAKILL and enjoy the mod!
 
@@ -22,3 +28,7 @@ A mod for ULTRAKILL that enhances gameplay by removing penalties from the style 
 - Initial release:
   - Keeps weapon freshness at maximum.
   - Removes style penalties for repetitive actions.
+
+---
+
+Let me know if you'd like to tweak or personalize any part! 😊
